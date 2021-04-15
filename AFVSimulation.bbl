@@ -1,0 +1,39 @@
+\begin{thebibliography}{FTW19}
+
+\bibitem[Alf15]{alfonsi2015affine}
+Aur\'elien Alfonsi.
+\newblock {\em Affine diffusions and related processes: simulation, theory and
+  applications}.
+\newblock Number~6 in B\&{SS} ? Bocconi \& Springer Series. Springer, 2015.
+
+\bibitem[And07]{andersen2007efficient}
+Leif~BG Andersen.
+\newblock Efficient simulation of the {H}eston stochastic volatility model.
+\newblock {\em Available at SSRN 946405}, 2007.
+
+\bibitem[BLP17]{bennedsen2017hybrid}
+Mikkel Bennedsen, Asger Lunde, and Mikko~S Pakkanen.
+\newblock Hybrid scheme for {B}rownian semistationary processes.
+\newblock {\em Finance and Stochastics}, 21(4):931--965, 2017.
+
+\bibitem[FGR20]{friz2020forests}
+Peter~K. Friz, Jim Gatheral, and Rado\v{s} Radoi\v{c}i\'c.
+\newblock Forests, cumulants, martingales.
+\newblock {\em {arXiv}:2002.01448 [math]}, 2020.
+
+\bibitem[FTW19]{fukasawa2019volatility}
+Masaaki Fukasawa, Tetsuya Takabatake, and Rebecca Westphal.
+\newblock Is volatility rough?
+\newblock {\em {arXiv} preprint {arXiv}:1905.04852}, 2019.
+
+\bibitem[GKR19]{gatheral2019affine}
+Jim Gatheral and Martin Keller-Ressel.
+\newblock Affine forward variance models.
+\newblock {\em Finance and Stochastics}, 23(3):501--533, 2019.
+
+\bibitem[Mac11]{mackevicius2011weak}
+Vigirdas Mackevi\v{c}ius.
+\newblock Weak approximation of {CIR} equation by discrete random variables.
+\newblock {\em Lithuanian Mathematical Journal}, 51(3):385--401, 2011.
+
+\end{thebibliography}

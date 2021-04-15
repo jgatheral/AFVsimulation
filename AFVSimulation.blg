@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: AFVSimulation.aux
+The style file: alpha.bst
+Database file #1: RoughVolatility.bib
+Warning--I didn't find a database entry for "abijaber2018multifactor"
+You've used 7 entries,
+            2543 wiz_defined-function locations,
+            600 strings with 5471 characters,
+and the built_in function-call counts, 2528 in all, are:
+= -- 253
+> -- 118
+< -- 4
++ -- 39
+- -- 39
+* -- 182
+:= -- 442
+add.period$ -- 22
+call.type$ -- 7
+change.case$ -- 41
+chr.to.int$ -- 7
+cite$ -- 7
+duplicate$ -- 99
+empty$ -- 176
+format.name$ -- 49
+if$ -- 497
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 8
+newline$ -- 38
+num.names$ -- 21
+pop$ -- 34
+preamble$ -- 1
+purify$ -- 49
+quote$ -- 0
+skip$ -- 79
+stack$ -- 0
+substring$ -- 124
+swap$ -- 8
+text.length$ -- 4
+text.prefix$ -- 3
+top$ -- 0
+type$ -- 52
+warning$ -- 0
+while$ -- 24
+width$ -- 10
+write$ -- 90
+(There was 1 warning)

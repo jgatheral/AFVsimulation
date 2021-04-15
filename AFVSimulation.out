@@ -1,0 +1,32 @@
+\BOOKMARK [1][-]{section.1}{The model}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Moments of AFV models}{section.1}% 2
+\BOOKMARK [3][-]{subsubsection.1.1.1}{Tree computations}{subsection.1.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.1.2}{Power-law kernel}{subsection.1.1}% 4
+\BOOKMARK [3][-]{subsubsection.1.1.3}{Scaling of central moments}{subsection.1.1}% 5
+\BOOKMARK [2][-]{subsection.1.2}{Approximation of moments}{section.1}% 6
+\BOOKMARK [1][-]{section.2}{Simulation}{}% 7
+\BOOKMARK [2][-]{subsection.2.1}{ The covariance matrix}{section.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.1.1}{The correlation matrix}{subsection.2.1}% 9
+\BOOKMARK [3][-]{subsubsection.2.1.2}{A further approximation for small H}{subsection.2.1}% 10
+\BOOKMARK [1][-]{section.3}{Positive simulation schemes}{}% 11
+\BOOKMARK [2][-]{subsection.3.1}{The Andersen Quadratic Exponential \(QE\) scheme}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.2}{The discrete scheme of Mackevicius}{section.3}% 13
+\BOOKMARK [3][-]{subsubsection.3.2.1}{A potential higher order scheme}{subsection.3.2}% 14
+\BOOKMARK [1][-]{section.4}{Weak error analysis}{}% 15
+\BOOKMARK [1][-]{section.5}{An Euler-like scheme for v }{}% 16
+\BOOKMARK [2][-]{subsection.5.1}{Computation of n=E[.vn|Fn-1]}{section.5}% 17
+\BOOKMARK [2][-]{subsection.5.2}{Positive simulation schemes}{section.5}% 18
+\BOOKMARK [2][-]{subsection.5.3}{Simulating xT}{section.5}% 19
+\BOOKMARK [2][-]{subsection.5.4}{Check of Y M}{section.5}% 20
+\BOOKMARK [2][-]{subsection.5.5}{Numerical results}{section.5}% 21
+\BOOKMARK [1][-]{section.6}{A QE hybrid scheme}{}% 22
+\BOOKMARK [2][-]{subsection.6.1}{ A 2-D version of the QE step}{section.6}% 23
+\BOOKMARK [3][-]{subsubsection.6.1.1}{A first small H approximation}{subsection.6.1}% 24
+\BOOKMARK [2][-]{subsection.6.2}{The generic step}{section.6}% 25
+\BOOKMARK [2][-]{subsection.6.3}{Numerical results}{section.6}% 26
+\BOOKMARK [2][-]{subsection.6.4}{Probabilistic interpretation of the hybrid scheme}{section.6}% 27
+\BOOKMARK [2][-]{subsection.6.5}{Financial interpretation of the hybrid scheme}{section.6}% 28
+\BOOKMARK [1][-]{section.7}{Numerical tests of convergence}{}% 29
+\BOOKMARK [2][-]{subsection.7.1}{Richardson extrapolation}{section.7}% 30
+\BOOKMARK [1][-]{appendix.A}{Approximate variance}{}% 31
+\BOOKMARK [1][-]{appendix.B}{Bell polynomials}{}% 32
